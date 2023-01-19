@@ -3,4 +3,4 @@
 - 👀 I’m interested in Web3, Startup , Tech 
 - 🌱 I’m currently learning Web-development
 - 📫 How to reach me @iaditya0714@gmail.com
-
+- <a href="https://quine.sh/profile/ADITYA0714"><img src="https://stats.quine.sh/ADITYA0714/github" alt="ADITYA0714's GitHub stats" width="840px"></a>
